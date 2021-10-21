@@ -1,1 +1,0 @@
-This is Aastha's first git project!
